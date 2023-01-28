@@ -1,0 +1,1 @@
+print('konnichi wa seikai!')
