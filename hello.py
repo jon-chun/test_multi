@@ -1,2 +1,2 @@
 print('konnichi wa seikai!')
-print('sayonara sucka')
+print('sayonara')
